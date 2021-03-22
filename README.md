@@ -36,4 +36,5 @@ Education
 : RVNZPHIGH SCHOOL
 
 Programming Languages
-:   C,C++,PYTHON
+:   C ,C++,PYTHON
+
