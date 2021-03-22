@@ -14,4 +14,4 @@
   
   
 ![GitHub logo](/images/logo.png)
-Format: ![Alt Text](https://www.nature.com/articles/d41586-020-01430-5)
+Format: ![Alt Text](https://media.nature.com/lw800/magazine-assets/d41586-020-01430-5/d41586-020-01430-5_17977552.jpg)
